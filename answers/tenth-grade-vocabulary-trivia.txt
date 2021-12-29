@@ -1,12 +1,12 @@
-Procure		to obtain
-Assuage		to relieve or soothe
-Discern		to recognize the difference
-Enigma		a mystery
-Annotated	supplied with or containing explanatory notes and textual comments
-Denotation	a word that names or signifies something specific
-Principle	a fundamental, primary, or general law or truth from which others are derived
-Buoyancy	the power to float or rise in a fluid, the upward pressure exerted by the fluid in which a body is immersed
-Conceit		an excessively favorable opinion of one's own ability, importance or wit
-Allegory	a representation of an abstract or spiritual meaning through concrete or material forms
-Euphemism	the substitution of a mild, indirect, or vague expression for one thought to be offensive, harsh, or blunt
-Auspicious	favorable, noteworthy
+Juncture	a joining together; the point at which two things are joined; any important point in time
+Gregarious	seeking and enjoying the company of others
+Congregate	To come together in a group, assemble.
+Injunction	a formal command or admonition
+Malady		a sickness, illness, disease, disorder
+Malcontent	person dissatisfied with existing state of affairs
+Malicious	wishing evil or harm upon others
+Phonetic	related to the sounds in a language
+Segregate	separating into different groups
+Soliloquy	the act of talking to oneself or a dramatic monologue
+Junction	an act of joining or adjoining things
+Dialogue	a conversation between two persons
